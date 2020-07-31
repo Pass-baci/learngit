@@ -1,3 +1,7 @@
 this is good
 The first time
+<<<<<<< HEAD
 Creating a new branch is quick & simple.
+=======
+Creating a new branch is quick and simple.
+>>>>>>> featurel
